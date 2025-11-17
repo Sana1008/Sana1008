@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**Sana1008/Sana1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Management Information Systems (Cybersecurity & Networking Focus)  
+💻 Passionate about Computer Networks, Cybersecurity, and IT Infrastructure  
+🌐 Currently exploring Network Automation, Secure Configurations, and Cloud Networking  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔌 Experienced with **Cisco Packet Tracer** and **Wireshark**
+- ⚙️ Familiar with **routing protocols (OSPF, BGP)**, **VLANs**, **VPNs**, and **firewall rules**
+- 🐍 Writing **Python scripts** for network monitoring and automation
+- 🔒 Interested in **network defense, IDS/IPS systems**, and **threat detection**
+- 🌱 Currently learning: **Network Automation with Python & Ansible**
+
+---
+
+## 🧰 Tech Stack
+**Networking Tools:** Cisco Packet Tracer · Nmap · Wireshark  
+**Languages:** Python · PowerShell · Bash · SQL  
+**Platforms:** Linux · Windows Server  
+**Other Skills:** Network Troubleshooting · System Administration · Cybersecurity Fundamentals  
+
+---
+
+
+
+⭐ *“Good networks are built on great layers — both in OSI and in teamwork.”*
