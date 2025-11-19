@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Sanskruti Dhanani 
 
 🎓 Master's in Management Information Systems (Cybersecurity & Networking Focus)  
 💻 Passionate about Computer Networks, Cybersecurity, and IT Infrastructure  
