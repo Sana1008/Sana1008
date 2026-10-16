@@ -20,67 +20,26 @@ I enjoy building reliable systems, understanding how data moves through networks
 
 ### Languages
 
-- Python
-- Go
-- SQL
-- Bash
-- PowerShell
+- Python, Go, SQL, Bash, PowerShell
 
 ### Backend and Data
 
-- Network sockets
-- HTTP
-- REST APIs
-- Concurrency
-- PostgreSQL
-- Redis
-- Apache Kafka
+- Network sockets, HTTP, REST APIs, Concurrency, PostgreSQL, Redis, Apache Kafka
 
 ### Infrastructure and DevOps
 
-- Linux
-- Docker
-- Docker Compose
-- Kubernetes
-- Terraform
-- Ansible
-- Prometheus
-- Grafana
-- Git
-- GitHub
+- Linux, Docker, Docker Compose, Kubernetes, Terraform, Ansible, Grafana, GitHub
 
 ### Networking
 
-- TCP/IP
-- IPv4 and IPv6
-- DNS
-- DHCP
-- VLANs
-- Routing
-- NAT
-- VPNs
-- OSPF
-- ACLs
-- Linux network namespaces
-- Virtual Ethernet pairs
-- Linux bridges
-- nftables
-- Wireshark
-- tcpdump
+- TCP/IP, IPv4 and IPv6, DNS, DHCP, VLANs, Routing, NAT, VPNs, OSPF, ACLs, Linux network namespaces, Virtual Ethernet pairs, Linux bridges, Nftables, Wireshark, Tcpdump
 
 ### Security
 
-- TLS
-- PKI
-- Mutual TLS
-- WireGuard
-- Network segmentation
-- Role-Based Access Control
-- Kubernetes NetworkPolicy
-- Active Directory concepts
-- Nmap
-- Zeek
+- TLS, PKI, Mutual TLS, WireGuard, Network segmentation, Role-Based Access Control, Kubernetes NetworkPolicy, Active Directory concepts, Nmap, Zeek
 
+### Machine Learning
+- Predictive Modeling, Anomaly Detection, Feature Engineering, Model Evaluation, Pandas, NumPy, Scikit-Learn
 ## Engineering Interests
 
 I am especially interested in systems that combine networking and software engineering, including:
@@ -95,29 +54,7 @@ I am especially interested in systems that combine networking and software engin
 - Infrastructure observability
 - High-performance backend services
 
-## Current Learning Path
 
-```text
-Linux and Networking
-        ↓
-Network Automation
-        ↓
-Backend and Distributed Systems
-        ↓
-Docker and Kubernetes Networking
-        ↓
-Cloud Infrastructure
-        ↓
-Observability and Security
-```
-
-## How I Build
-
-I learn by building systems, testing their behavior, intentionally creating failures, analyzing packet and system-level evidence, and automating the final workflow.
-
-```text
-Design → Build → Test → Break → Analyze → Automate → Document
-```
 
 ## Career Interests
 
@@ -134,7 +71,5 @@ I am preparing for roles such as:
 ## Connect With Me
 
 - GitHub: [@Sana1008](https://github.com/Sana1008)
-- Portfolio: Add your portfolio link here
-- Email: Add your professional email here
-
+- Email: sanskrutidhanani78@gmail.com
 Thanks for visiting my profile!
